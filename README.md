@@ -7,6 +7,8 @@
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
+
+
 - 🌱 I’m currently learning **kotlin**
 
 - 👯 I’m looking to collaborate on **on something intresting**
