@@ -49,9 +49,9 @@
 </div>
 <br>
 </details>
-
+<br>
+<br>
 <details>
   <summary>:zap: support </summary>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/somanath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="somanath" /></a></p><br><br>
+	<p><a href="https://www.buymeacoffee.com/somanath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" 		alt="somanath" /></a></p><br><br>
 </details>
