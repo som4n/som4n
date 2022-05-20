@@ -6,6 +6,7 @@
 <h3 align="center">A Designer and developer who loves to build simple and beautiful things</h3>
 
 
+![snake gif](https://github.com/som4n/som4n/blob/output/github-contribution-grid-snake.gif)
 
 - 🌱 I’m currently learning **kotlin**
 
