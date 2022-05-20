@@ -4,9 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm SOMANATH</h1>
 <h3 align="center">A Designer and developer who loves to build simple and beautiful things</h3>
-
-
-![snake gif](https://github.com/som4n/som4n/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+	
+![github contribution grid snake animation](https://raw.githubusercontent.com/som4n/som4n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/som4n/som4n/github-contribution-grid-snake.svg#gh-light-mode-only)
+</div>
 
 - 🌱 I’m currently learning **kotlin**
 
