@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Somanathseeni@gmail.com**
 
-- 🥅 Goals a 6 figure job
+- 🥅 Goals 2022 master *DS ALGO*
 
 
 ### :zap:Connect at:
