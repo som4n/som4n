@@ -24,7 +24,7 @@
 ### :zap:Connect at:
 <p align="left">
   <a href="https://linkedin.com/in/somanathseeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somanathseeni"  width="26px" style="padding-right:10px;"  /></a>
-  <a href="https://instagram.com/s_somanath_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_somnath_"  width="26px" style="padding-right:10px;"  /></a>
+  <a href="https://instagram.com/s_somnath_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_somnath_"  width="26px" style="padding-right:10px;"  /></a>
 
 
 </p>
