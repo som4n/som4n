@@ -4,10 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm SOMANATH</h1>
 <h3 align="center">A Designer and developer who loves to build simple and beautiful things</h3>
-<div align="center">
-	
-![github contribution grid snake animation](https://raw.githubusercontent.com/som4n/som4n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/som4n/som4n/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-</div>
+
 
 - 🌱 I’m currently learning **React**
 
@@ -18,10 +15,16 @@
 - 🥅 Goals 2022 master *DS ALGO*
 
 
+<div align="center">
+	
+![github contribution grid snake animation](https://raw.githubusercontent.com/som4n/som4n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/som4n/som4n/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
 ### :zap:Connect at:
 <p align="left">
   <a href="https://linkedin.com/in/somanathseeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somanathseeni"  width="26px" style="padding-right:10px;"  /></a>
-  <a href="https://instagram.com/s_somanath_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_somanath_"  width="26px" style="padding-right:10px;"  /></a>
+  <a href="https://instagram.com/s_somanath_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_somnath_"  width="26px" style="padding-right:10px;"  /></a>
 
 
 </p>
