@@ -6,7 +6,7 @@
 <h3 align="center">A Designer and developer who loves to build simple and beautiful things</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **on something intresting**
 
@@ -40,7 +40,8 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
 <br>
-
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52043557" width="26px"/>
+<br>
 <br>
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
