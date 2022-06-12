@@ -42,17 +42,12 @@
 <br>
 <br>
 
-  <summary>:zap: Recent GitHub Activity</summary>
-<div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=som4n&show_icons=true&theme=dark&locale=en" alt="som4n" /></p>
- </div>
-<br>
-<div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=som4n&theme=dark" alt="som4n" /></p>
-</div>
-<br>
-<div align="center">
-<img align="left" height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=som4n&layout=compact&theme=dark"/>
+### :zap: Recent GitHub Activity:
+
+<div align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=som4n&show_icons=true&theme=dark&locale=en" alt="som4n" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=som4n&theme=dark" alt="som4n" />
+<img align="center" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=som4n&layout=compact&theme=dark"/>
 </div>
 	
 
