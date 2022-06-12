@@ -35,12 +35,13 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt ="python" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <br>
 <br>
-<details>
+
   <summary>:zap: Recent GitHub Activity</summary>
 <div>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=som4n&show_icons=true&theme=dark&locale=en" alt="som4n" /></p>
@@ -54,7 +55,7 @@
 <img align="left" height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=som4n&layout=compact&theme=dark"/>
 </div>
 	
-</details>
+
 
 <details>
   <summary>:zap: support </summary>
