@@ -49,7 +49,6 @@
 <br>
 <img align="center" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=som4n&layout=compact&theme=dark"/>
 </div>
-	
 
 
 <details>
