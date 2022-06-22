@@ -6,7 +6,7 @@
  <h3 align="center">A Designer and developer who loves to build simple and beautiful things</h3>
 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning ** AWS**
 
 - 👯 I’m looking to collaborate on **on something intresting**
 
@@ -44,10 +44,7 @@
 
 ### :zap: Recent GitHub Activity:
 
-<div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=som4n&show_icons=true&theme=dark&locale=en" alt="som4n" />
-<br>
-<img align="center" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=som4n&layout=compact&theme=dark"/>
+<img align="center" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=som4n&layout=compact"/>
 </div>
 
 
