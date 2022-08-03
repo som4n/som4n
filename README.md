@@ -7,7 +7,7 @@
 
 <br>
  
-- 🌱 I’m currently learning ** AWS**
+- 🌱 I’m currently learning ** AWS **
 
 - 👯 I’m looking to collaborate on **on something intresting**
 
