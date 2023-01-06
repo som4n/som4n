@@ -7,13 +7,13 @@
 
 <br>
  
-- 🌱 I’m currently learning ** AWS ** 
+- 🌱 I’m currently learning **REACT** 
 
 - 👯 I’m looking to collaborate on **on something intresting**
 
 - 📫 How to reach me **Somanathseeni@gmail.com**
 
-- 🥅 Goals 2022 master *DS ALGO*
+- 🥅 Goals 2023 master *DS ALGO*
 
 
 <div align="center">
@@ -43,13 +43,4 @@
 <br>
 <br>
 
-### :zap: Recent GitHub Activity:
-
-<img align="center" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=som4n&layout=compact"/>
-</div>
-
-
-<details>
-  <summary>:zap: support </summary>
-	<p><a href="https://www.buymeacoffee.com/somanath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" 		alt="somanath" /></a></p><br><br>
 </details>
