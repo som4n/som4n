@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Somanathseeni@gmail.com**
 
-- 🥅 Goals 2023 master *DS ALGO* 
+- 🥅 Goals 2024 master *DS ALGO* 
 
 
 <div align="center">
