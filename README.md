@@ -22,11 +22,11 @@ I am a passionate software developer with a keen interest in open-source project
 
 ## Skills
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frameworks:** React, Angular, Node.js, Express, Spring Boot
-- **Tools & Technologies:** Docker, Kubernetes, Git, GitHub Actions, Jenkins
+- **Languages:** JavaScript, Python,
+- **Frameworks:** React, Flask, Spark, Tableau, Power BI
+- **Tools & Technologies:** Docker, Kubernetes, Git, GitHub Actions, Jenkins, Kafka
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Cloud:** AWS 
 
 ## Projects
 
