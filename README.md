@@ -1,46 +1,48 @@
+# Hi there, I'm som4n! 👋
 
+## About Me
 
+I am a passionate software developer with a keen interest in open-source projects and innovative technologies. I love to explore new programming languages, frameworks, and tools to constantly improve my skill set and contribute to the developer community.
 
+## Experience
 
- <h1 align="center">Hi 👋 , I'm SOMANATH</h1>
- <h3 align="center">A Designer and developer who loves to build simple and beautiful things</h3>
+### Accenture, India
+**Full-time · 3 yrs 5 mos**  
+**Data Engineering, Management & Governance Analyst**
 
-<br>
- 
-- 🌱 I’m currently learning **REACT** 
+- Architected and optimized ETL workflows using Ab Initio and Python, ensuring seamless data processing across enterprise retail systems.
+- Developed a Python-based generic retry mechanism that reduced manual intervention by 80% for transient failures and improved overall system reliability by 40%.
+- Engineered robust error handling solutions for database operations, Kafka messaging systems, and API integrations, demonstrating advanced Python scripting capabilities.
+- Implemented parameterized retry logic with configurable retry attempts, delay intervals, and error thresholds, showcasing software design principles.
+- Built monitoring and alerting systems using Python to provide real-time visibility into 36+ critical data workflows.
+- Collaborated with cross-functional teams to identify automation opportunities, proposing and implementing Python-based solutions.
+- Applied version control best practices (Git) and CI/CD principles to maintain code quality and ensure seamless deployment.
 
-- 👯 I’m looking to collaborate on **on something intresting**
+**Technical Skills:** Python, Ab Initio, SQL, Unix/Linux, Kafka, RESTful APIs, ETL Pipeline Design, Data Engineering
 
-- 📫 How to reach me **Somanathseeni@gmail.com**
+## Skills
 
-- 🥅 Goals 2024 master *DS ALGO* 
+- **Languages:** JavaScript, TypeScript, Python, Java, C++
+- **Frameworks:** React, Angular, Node.js, Express, Spring Boot
+- **Tools & Technologies:** Docker, Kubernetes, Git, GitHub Actions, Jenkins
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud:** AWS, Azure, Google Cloud Platform
 
+## Projects
 
-<div align="center">
-	
-![github contribution grid snake animation](https://raw.githubusercontent.com/som4n/som4n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/som4n/som4n/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+Here are some of my notable projects:
 
-</div>
+- [rm_background](https://github.com/som4n/rm_backround) - A user-friendly web app for removing image backgrounds using AI. Built with Python, Flask, and the U²-Net model. Features:
+  - 🖱️ Drag & Drop Interface - Simple user-friendly UI
+  - 🧠 AI-Powered Removal - Powered by rembg and U²-Net
+  - ⚡ Real-Time Processing - Fast background removal in seconds
+  - 🐍 Python Backend - Built with Flask for scalability
 
-### :zap:Connect at:
-<p align="left">
-  <a href="https://linkedin.com/in/somanathseeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somanathseeni"  width="26px" style="padding-right:10px;"  /></a>
-  <a href="https://instagram.com/s_somnath_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_somnath_"  width="26px" style="padding-right:10px;"  /></a>
+## Let's Connect
 
+- [LinkedIn](https://www.linkedin.com/in/somanathseenivasan/)
+- [Email](mailto:somanathseeni@gmail.com)
 
-</p>
-  
- 
-### :zap:Languages and Tools:
+Feel free to reach out if you want to collaborate on a project or just want to say hi!
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt ="python" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<br>
-<br>
-
-</details>
+Thanks for visiting my profile! 😊
