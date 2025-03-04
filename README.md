@@ -1,4 +1,4 @@
-# Hi there, I'm som4n! 👋
+# Hi there, I'm som! 👋
 
 ## About Me
 
