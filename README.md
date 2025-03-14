@@ -15,8 +15,6 @@ I am a passionate software developer with a keen interest in open-source project
 - Engineered robust error handling solutions for database operations, Kafka messaging systems, and API integrations, demonstrating advanced Python scripting capabilities.
 - Implemented parameterized retry logic with configurable retry attempts, delay intervals, and error thresholds, showcasing software design principles.
 - Built monitoring and alerting systems using Python to provide real-time visibility into 36+ critical data workflows.
-- Collaborated with cross-functional teams to identify automation opportunities, proposing and implementing Python-based solutions.
-- Applied version control best practices (Git) and CI/CD principles to maintain code quality and ensure seamless deployment.
 
 **Technical Skills:** Python, Ab Initio, SQL, Unix/Linux, Kafka, RESTful APIs, ETL Pipeline Design, Data Engineering
 
