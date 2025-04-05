@@ -20,11 +20,13 @@ I am a passionate software developer with a keen interest in open-source project
 
 ## Skills
 
-- **Languages:** JavaScript, Python,
+- **Programming:** JavaScript, Python (Pandas, NumPy, Flask ), SQL, Shell Scripting
 - **Frameworks:** React, Flask, Spark, Tableau, Power BI
-- **Tools & Technologies:** Docker, Kubernetes, Git, GitHub Actions, Jenkins, Kafka
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud:** AWS 
+- **Tools & Technologies:** Docker, Kubernetes, Git, Jenkins, Kafka, Ab Initio, Apache Airflow
+- **Databases:**  SQL, Oracle, MySQL, PostgreSQL
+- **Cloud:**  AWS (S3, IAM, Boto3, glue), pySpark (Basics) 
+
+
 
 ## Projects
 
