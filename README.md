@@ -1,22 +1,5 @@
  # Hi there, I'm Som! 👋
-
-## About Me
-
-I am a passionate software developer with a keen interest in open-source projects and innovative technologies. I love to explore new programming languages, frameworks, and tools to constantly improve my skill set and contribute to the developer community.
-
-## Experience
-
-### Accenture, India
-**Full-time · 3 yrs 5 mos**  
-**Data Engineering, Management & Governance Analyst**
-
-- Architected and optimized ETL workflows using Ab Initio and Python, ensuring seamless data processing across enterprise retail systems.
-- Developed a Python-based generic retry mechanism that reduced manual intervention by 80% for transient failures and improved overall system reliability by 40%.
-- Engineered robust error handling solutions for database operations, Kafka messaging systems, and API integrations, demonstrating advanced Python scripting capabilities.
-- Implemented parameterized retry logic with configurable retry attempts, delay intervals, and error thresholds, showcasing software design principles.
-- Built monitoring and alerting systems using Python to provide real-time visibility into 36+ critical data workflows.
-
-**Technical Skills:** Python, Ab Initio, SQL, Unix/Linux, Kafka, RESTful APIs, ETL Pipeline Design, Data Engineering
+I'm Soman, a passionate developer focused on building innovative solutions. Welcome to my GitHub profile!
 
 ## Skills
 
@@ -44,5 +27,12 @@ Here are some of my notable projects:
 - [Email](mailto:somanathseeni@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
+
+## 🎵 My Coding Playlist
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWZS4GhkDZq7c)
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWZS4GhkDZq7c">
+  <img src="https://i.scdn.co/image/ab67706f00000003133d6872a06f70f51143930c" width="300" alt="My Spotify Playlist">
+</a>
 
 Thanks for visiting my profile! 😊
