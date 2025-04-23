@@ -31,8 +31,5 @@ Feel free to reach out if you want to collaborate on a project or just want to s
 ## 🎵 My Coding Playlist
 [![Spotify Playlist](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWZS4GhkDZq7c)
 
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWZS4GhkDZq7c">
-  <img src="https://i.scdn.co/image/ab67706f00000003133d6872a06f70f51143930c" width="300" alt="My Spotify Playlist">
-</a>
 
 Thanks for visiting my profile! 😊
