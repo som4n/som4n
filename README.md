@@ -1,5 +1,5 @@
  # Hi there, I'm Som! 👋
-I'm Soman, a passionate developer focused on building innovative solutions. Welcome to my GitHub profile!
+I'm Soman, a passionate developer focused on building innovative solutions. Welcome to my GitHub profile! 
  
 ## Skills
 
